@@ -7,11 +7,11 @@
 
 
 ## Contributors / Colaboradores
-[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeLucas.png">](https://github.com/lramon2001)
+[<img align="center" alt="Badge-Lucas" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeLucas.png">](https://github.com/lramon2001)
 
-[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAna.png">](https://github.com/isabelacgmsa)
+[<img align="center" alt="Badge-Isabella" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeIsabella.png">](https://github.com/isabelacgmsa)
 
-[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAndre.png">](https://github.com/andrelanna)
+[<img align="center" alt="Badge-Andre" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAndre.png">](https://github.com/andrelanna)
 
 :dna: Project with GA approaches and Java applications. 
 
