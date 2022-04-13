@@ -7,7 +7,7 @@
 
 
 ## Contributors / Colaboradores
-[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeLucas.png">]()
+[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeLucas.png">](https://github.com/lramon2001)
 
 [<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAna.png">]()
 
