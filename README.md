@@ -11,7 +11,7 @@
 
 [<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAna.png">]()
 
-[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAndre.png">]()
+[<img align="center" alt="Judeu-Java" height="20" width="150" src="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/badgeAndre.png">](https://github.com/andrelanna)
 
 :rocket: Project with AI approaches and Java applications. 
 
