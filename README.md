@@ -36,7 +36,7 @@
 > **Esse projeto segue o modelo de [releases]() para versionamento.**
 
 ## License / Licença
-MIT License © [AG]()
+MIT License © [AG](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/LICENSE)
 
 ## Commits History / Histórico de commits
 - See [Commit History]() for contributors
