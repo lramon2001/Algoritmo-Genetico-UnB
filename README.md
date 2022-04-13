@@ -3,9 +3,9 @@
   
 
 ## Contributors / Colaboradores
-<img align="center" alt="Judeu-Java" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/S%C3%ADmbolo_da_UnB_%28para_fundo_branco%29.png">
-
-
+<img align="center" alt="Judeu-Java" height="30" width="50" src="">
+<img align="center" alt="Judeu-Java" height="30" width="50" src="">
+<img align="center" alt="Judeu-Java" height="30" width="50" src="">
 
 :rocket: Project with AI approaches and Java applications. 
 
