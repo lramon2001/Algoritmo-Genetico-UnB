@@ -39,6 +39,6 @@
 MIT License © [AG](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/LICENSE)
 
 ## Commits History / Histórico de commits
-- See [Commit History]() for contributors
+- See [Commit History](https://github.com/lramon2001/Algoritmo-Genetico-UnB/commits/main) for contributors
 
-> **Consulte [Histórico de commits]() por colaborador.**-
+> **Consulte [Histórico de commits](https://github.com/lramon2001/Algoritmo-Genetico-UnB/commits/main) por colaborador.**-
