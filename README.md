@@ -1,7 +1,7 @@
 # PIBIC  - Algoritmo genético  
   <div align="center" height="20" width="150" >
   
-  ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif)
+  ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) ![gif](https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna2.gif) 
   
 </div>
 
