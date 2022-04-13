@@ -1,5 +1,5 @@
 # PIBIC  - Algoritmo genético  
-  
+  <img align="center" alt="Judeu-DNA" src ="https://github.com/lramon2001/Algoritmo-Genetico-UnB/blob/main/dna.gif>
   
 
 ## Contributors / Colaboradores
